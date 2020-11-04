@@ -51,18 +51,19 @@ quite forgot how to speak good English)
 
 
 well what i find in 
-/r directry is 
+/r directry is just a text
 
 
 
-"Would you tell me, please, which way I ought to go from here?"
+## "Would you tell me, please, which way I ought to go from here?"
 
 using stegihide to see hidden data 
 
 
 
 steghide --extract -sf <img>.jpg/png
-
-
-alice:HowDothTheLittleCrocodileImproveHisShiningTail
+then found hint to searct /r/a/b/b/i/t directry
+![](rabbit_directry.png)
+![](found_credentials.png)
+# alice:HowDothTheLittleCrocodileImproveHisShiningTail
 
